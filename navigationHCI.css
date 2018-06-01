@@ -1,0 +1,44 @@
+.navigation {
+	font-family: 'Raleway', sans-serif;
+	display: inline-block;
+	margin-left: 50px;
+}
+.navigation a {
+	display: inline-block;
+    color: white;
+    padding: 20px;
+    text-decoration-line: none;
+    margin-right: 40px;
+    font-size: 14pt;
+}
+.topicmenu {
+	position: relative;
+	display: inline-block;
+}
+.workshopsmenu {
+	position: relative;
+	display: inline-block;
+}
+.submenu {
+	display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.submenu a {
+	color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.submenu a:hover {
+	background-color: #ddd;
+}
+.topicmenu:hover .submenu {
+	display: block;
+}
+.workshopsmenu:hover .submenu {
+	display: block;
+}
