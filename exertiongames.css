@@ -41,13 +41,11 @@ h2 {
 }
 .pone {
 	font-family: Raleway;
-	text-align: center;
 	font-weight: normal;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
 	font-size: 17px;
 	color: grey;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 .two {
 	font-family: Raleway;
