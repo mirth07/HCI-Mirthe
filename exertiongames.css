@@ -56,11 +56,11 @@ h2 {
 }
 .ptwo {
 	font-family: Raleway;
-	padding-left: 5%;
-	padding-right: 5%;
 	font-weight: normal;
 	font-size: 17px;
 	color: grey;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 .three {
 	font-family: Raleway;
@@ -71,9 +71,8 @@ h2 {
 }
 .pthree {
 	font-family: Raleway;
-	padding-left: 5%;
-	padding-right: 5%;
 	font-weight: normal;
 	font-size: 17px;
 	color: grey;
+	padding-right: 5%;
 }
