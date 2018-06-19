@@ -56,7 +56,8 @@ h2 {
 }
 .ptwo {
 	font-family: Raleway;
-	text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-weight: normal;
 	font-size: 17px;
 	color: grey;
@@ -70,7 +71,8 @@ h2 {
 }
 .pthree {
 	font-family: Raleway;
-	text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
 	font-weight: normal;
 	font-size: 17px;
 	color: grey;
