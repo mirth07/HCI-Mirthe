@@ -1,0 +1,93 @@
+.content {
+	background-color: #F7F0EF;
+	overflow: scroll;
+}
+.title {
+	font-family: Raleway;
+	text-align: center;
+	margin-top: 160px;
+	font-size: 40px;
+	color: white;
+}
+.backgroundimg {
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	min-width: 100%;
+	opacity: 0.9;
+}
+h2 {
+	font-family: Raleway;
+	text-align: center;
+	font-size: 17px;
+	font-weight: normal;
+	color: white;
+}
+.one {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+	margin-top: 370px;
+}
+.pone {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 13px;
+	color: grey;
+	display: block;
+}
+.first {
+	height: 380px;
+	width: 570px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.two {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.ptwo {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;
+}
+.second {
+	height: 340px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.three {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.pthree {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;
+}
+.third {
+	height: 370px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
