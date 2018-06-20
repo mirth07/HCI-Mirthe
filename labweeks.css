@@ -116,3 +116,18 @@ h2 {
 	margin-right: auto;
 	display: block;
 }
+.five {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.pfive {
+	font-family: Raleway;
+	padding-right: 10%;
+	padding-left: 10%;
+	font-weight: normal;
+	font-size: 13px;
+	color: grey;
+}
