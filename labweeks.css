@@ -131,6 +131,13 @@ h2 {
 	font-size: 13px;
 	color: grey;
 }
+.fifth {
+	height: 200px;
+	width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 .six {
 	font-family: Raleway;
 	text-align: center;
@@ -199,7 +206,7 @@ h2 {
 	color: grey;
 }
 video {
-		height: 200px;
+	height: 200px;
 	width: 380px;
 	margin-left: auto;
 	margin-right: auto;
