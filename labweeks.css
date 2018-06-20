@@ -49,8 +49,6 @@ h2 {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-	display: flex;
-	flex-direction: row;
 }
 .two {
 	font-family: Raleway;
