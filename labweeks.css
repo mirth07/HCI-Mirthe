@@ -198,6 +198,13 @@ h2 {
 	font-size: 13px;
 	color: grey;
 }
+video {
+		height: 200px;
+	width: 380px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 .last {
 	font-family: Raleway;
 	text-align: center;
