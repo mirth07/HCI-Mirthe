@@ -81,9 +81,10 @@ h2 {
 }
 .pthree {
 	font-family: Raleway;
-	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%;
 	font-weight: normal;
-	font-size: 17px;
+	font-size: 13px;
 	color: grey;
 }
 .third {
