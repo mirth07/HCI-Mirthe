@@ -35,7 +35,8 @@ h2 {
 }
 .pone {
 	font-family: Raleway;
-	text-align: center;
+	padding-right: 5%;
+	padding-left: 5%;
 	font-weight: normal;
 	font-size: 13px;
 	color: grey;
