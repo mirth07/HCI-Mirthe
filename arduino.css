@@ -49,11 +49,7 @@ video {
 	color: grey;
 	display: block;
 }
-.first {
-	height: 200px;
-	width: 380px;
-	margin-top: 40px;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
+.firstmedia {
+	display: flex;
+	flex-direction: row;
 }
