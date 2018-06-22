@@ -94,6 +94,20 @@ video {
 	height: 200px;
 	width: 380px;
 }
+.four {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.pfourth {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;
+}
 .fourth {
 	height: 340px;
 	width: 600px;
