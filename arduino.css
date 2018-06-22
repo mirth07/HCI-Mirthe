@@ -68,10 +68,17 @@ video {
 	padding-right: 10%;
 	padding-left: 10%;
 	font-weight: normal;
-	font-size: 13px;
+	font-size: 16px;
 	color: grey;
+	display: block;
 }
 .second {
 	height: 200px;
 	width: 380px;
+}
+.secondmedia {
+	margin-top: 30px;
+	margin-right: 10%;
+	margin-left: 10%;
+	display: block;
 }
