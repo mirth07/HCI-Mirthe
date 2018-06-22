@@ -47,6 +47,10 @@ h2 {
 	padding-left: 5%;
 	padding-right: 5%;
 }
+.first {
+	height: 400px;
+	width: 250px;
+}
 .two {
 	font-family: Raleway;
 	text-align: center;
