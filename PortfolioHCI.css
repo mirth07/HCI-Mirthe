@@ -25,13 +25,15 @@ h2 {
 	font-weight: normal;
 	color: white;
 }
+.about {
+	margin-top: 260px;
+}
 .aboutone {
 	font-family: Raleway;
 	text-align: center;
 	font-weight: bold;
 	font-size: 25px;
 	color: grey;
-	margin-top: 260px;
 }
 .pabout {
 	font-family: Raleway;
@@ -43,7 +45,7 @@ h2 {
 	float: left;
 }
 .first {
-	height: 250px;
+	height: 300px;
 	width: 380px;
 	float: right;
 }
