@@ -29,13 +29,16 @@ video {
 	height: 200px;
 	width: 380px;
 }
+.assignmentone {
+	margin-top: 30px;
+}
 .one {
 	font-family: Raleway;
 	text-align: center;
 	font-weight: bold;
 	font-size: 25px;
 	color: grey;
-	margin-top: 420px;
+	margin-top: 390px;
 }
 .pone {
 	font-family: Raleway;
