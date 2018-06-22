@@ -26,8 +26,8 @@ h2 {
 	color: white;
 }
 video {
-	height: 100px;
-	width:  150px;
+	height: 200px;
+	width: 380px;
 }
 .one {
 	font-family: Raleway;
@@ -48,9 +48,6 @@ video {
 }
 .first {
 	height: 200px;
-	width: 350px;
-}
-.firstmedia {
-	display: flex;
-	flex-direction: row;
+	width: 380px;
+	margin-top: 40px;
 }
