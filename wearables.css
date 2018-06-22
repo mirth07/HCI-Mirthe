@@ -50,14 +50,11 @@ h2 {
 .first {
 	height: 300px;
 	width: 200px;
-	display: block;
-	float: left;
+
 }
 .second {
-	float: right;
 	height: 300px;
-	width: 200px;
-	display: block;
+	width: 200px; 
 }
 .two {
 	font-family: Raleway;
