@@ -90,3 +90,11 @@ h2 {
 	margin-right: auto;
 	display: block;
 }
+video {
+	height: 200px;
+	width: 380px;
+}
+.fourth {
+	height: 340px;
+	width: 600px;
+}
