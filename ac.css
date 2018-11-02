@@ -77,5 +77,9 @@ h2 {
 	padding-right: 5%;
 	padding-left: 5%;
 }
-
+.homeostasis {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
 

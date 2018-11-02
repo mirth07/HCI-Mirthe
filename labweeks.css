@@ -25,13 +25,21 @@ h2 {
 	font-weight: normal;
 	color: white;
 }
+.head {
+	font-family: Raleway;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	color: black;
+	margin-top: 400px;
+}
 .one {
 	font-family: Raleway;
 	text-align: center;
 	font-weight: bold;
 	font-size: 25px;
 	color: grey;
-	margin-top: 370px;
+	margin-top: 50px;
 }
 .pone {
 	font-family: Raleway;
@@ -233,6 +241,39 @@ video {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+}
+.head2 {
+	font-family: Raleway;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	color: black;
+	margin-top: 50px;
+}
+.pproduct {
+	font-family: Raleway;
+	padding-right: 10%;
+	padding-left: 10%;
+	font-weight: normal;
+	font-size: 13px;
+	color: grey;
+}
+.reflect {
+	font-family: Raleway;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	color: black;
+	margin-top: 50px;
+}
+.preflect{
+	font-family: Raleway;
+	padding-right: 10%;
+	padding-left: 10%;
+	font-weight: normal;
+	font-size: 13px;
+	color: grey;
+
 }
 .aftermovie {
 	font-family: Raleway;

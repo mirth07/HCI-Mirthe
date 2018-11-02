@@ -31,7 +31,6 @@ h2 {
 	font-weight: bold;
 	font-size: 25px;
 	color: grey;
-	margin-top: 370px;
 }
 .pone {
 	font-family: Raleway;
@@ -86,6 +85,72 @@ h2 {
 .third {
 	height: 370px;
 	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.ffirst {
+	margin-top: 300px;
+}
+.afirst {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.aafirst {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;
+}
+.aaffirst {
+	height: 380px;
+	width: 570px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.asecond {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.aasecond {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;	
+}
+.aassecond {
+	height: 380px;
+	width: 570px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.athird {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color: grey;
+}
+.aathird {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: normal;
+	font-size: 17px;
+	color: grey;
+}
+.aatthird {
+	height: 380px;
+	width: 570px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;

@@ -77,3 +77,26 @@ h2 {
 	padding-right: 5%;
 	padding-left: 5%;
 }
+.cart {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	color: grey;
+
+}
+.bubble {
+	font-family: Raleway;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	color: grey;
+}
+a {
+	text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-family: Raleway;
+	font-size: 18px;
+	color: grey;
+}
